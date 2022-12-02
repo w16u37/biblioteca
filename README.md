@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+en la carpeta:
+npx create-react-app@latest .
+
+fuera de la carpeta:
+npx create-react-app@latest my-app
+
+luego de cargar todos los archivos ejecutar con:
+npm start
+
+para detener la ejecucion:
+ctrl + c
+
+y por ultimo para editar. desde la carpeta:
+click derecho y darle a abrir con visual studio code.
