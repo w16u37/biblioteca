@@ -1,0 +1,33 @@
+.navegacion{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.list li{
+    margin: 5px;
+    justify-content: center;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    display: flex;
+}
+
+.nav-container{
+    background-color: aqua;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+    border-bottom: 1px solid black;
+}

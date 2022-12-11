@@ -83,3 +83,16 @@ ctrl + c
 
 y por ultimo para editar. desde la carpeta:
 click derecho y darle a abrir con visual studio code.
+
+<!-- <header className="App-header bg-secondary">
+              <img src={logo} className="App-logo" alt="logo" />
+              <p>
+                Edit <code>src/App.js</code> and save to reload.
+              </p>
+              <h1 style={styles}>Mi nombre es</h1>
+              <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+                Learn react
+              </a>
+            </header> -->
+
+

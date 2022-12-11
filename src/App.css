@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.claseActiva{
+  color: red;
+}
+
+.claseInactiva{
+  color: black;
+}
